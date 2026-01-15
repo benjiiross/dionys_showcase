@@ -1,6 +1,6 @@
 # Dionys 🍷
 
-    Note: This is a Showcase Repository. It contains the architecture, UI components, and technical patterns of the Dionys project. The full business logic and production assets are maintained in a private repository.
+Note: This is a Showcase Repository. It contains the architecture, UI components, and technical patterns of the Dionys project. The full business logic and production assets are maintained in a private repository.
 
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-v1.5.12-blue)](https://www.jetbrains.com/lp/compose-multiplatform/)
